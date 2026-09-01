@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+*.mp4
+*.png
+# Graphs the drivers regenerate on every run; only the frozen one under
+# workflows/ is kept.
+h3_t2v_api.json
+h3_turbo_test_api.json
