@@ -7,3 +7,6 @@ __pycache__/
 # workflows/ is kept.
 h3_t2v_api.json
 h3_turbo_test_api.json
+
+# Claude Code per-user permissions (may contain secrets)
+.claude/settings.local.json
